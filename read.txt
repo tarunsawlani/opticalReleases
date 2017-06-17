@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 dfasdfsdf
 I  am adding one more line
 Dil lagane tu hi tarika hai
-=======
-dfasdfsdf
->>>>>>> parent of 6d12249... changing
